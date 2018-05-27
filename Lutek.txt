@@ -1,0 +1,5 @@
+Lutek
+100
+Warrior
+Sword
+100
